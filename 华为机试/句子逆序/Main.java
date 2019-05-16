@@ -16,6 +16,6 @@ public class Main {
     scanner.close();
   }
 
-  private static final boolean TEST = false;
+  private static final boolean TEST = true;
   private static final String INPUT = "I am a boy\n\n";
 }
