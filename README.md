@@ -70,7 +70,7 @@
 
 华为机试/字符串匹配/
 华为机试/整数与IP地址间的转换/
-Leetcode经典编程题/Word Break/动态规划
+Leetcode经典编程题/113. Word Break/动态规划
 
 # 2019.05.21
 华为机试/字符统计/
@@ -87,12 +87,16 @@ Leetcode经典编程题/140. Word Break II/
 
 # 2019.05.23
 Leetcode经典编程题/115. Distinct Subsequences/
-Leetcode经典编程题/78. Subsets/迭代回溯
-Leetcode经典编程题/78. Subsets/递归回溯
-Leetcode经典编程题/90. Subsets II/迭代回溯+剪枝
-Leetcode经典编程题/90. Subsets II/迭代回溯+哈希表
-Leetcode经典编程题/90. Subsets II/递归回溯+哈希表
-Leetcode经典编程题/97. Interleaving String/1D 动态规划
-Leetcode经典编程题/97. Interleaving String/2D 动态规划
+Leetcode经典编程题/078. Subsets/迭代回溯
+Leetcode经典编程题/078. Subsets/递归回溯
+Leetcode经典编程题/090. Subsets II/迭代回溯+剪枝
+Leetcode经典编程题/090. Subsets II/迭代回溯+哈希表
+Leetcode经典编程题/090. Subsets II/递归回溯+哈希表
+Leetcode经典编程题/097. Interleaving String/1D 动态规划
+Leetcode经典编程题/097. Interleaving String/2D 动态规划
+
+# 2019.05.25
+Leetcode经典编程题/111. Minimum Depth of Binary Tree
+Leetcode经典编程题/150. Evaluate Reverse Polish Notation
 # todo list
 华为机试/素数伴侣/二分图匹配
